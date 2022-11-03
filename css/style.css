@@ -1,0 +1,19 @@
+.main-menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 10px;
+    background-color: rgba(218, 220, 221, 0.411);
+}
+
+.menu-right a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 10px 15px;
+    font-size: 14px;
+    letter-spacing: 2px;
+
+}
+
+/* ============
+    menu end
+=============== */
